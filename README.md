@@ -2,12 +2,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 <h4>A Front-End Developer </h4>
 
-- 🔭 I’m currently working on a Front-End Project
-- 🌱 I’m Interested to work as Software Engineer
-- 👯 I’m making the world better by AI/ML 
-- 💬 Ask me about Technology & Finance
+- 🔭 Currently Working: On a React-based Front-End project.
+- 🌱 Interested In: Software Engineering roles to build impactful solutions.
+- 👯 Mission: Making the world better with AI/ML-driven innovations. 
+- 💬 Ask Me About: Tech stacks, DSA.
 - 📫 How to reach me: kailashmaurya51@gmail.com
-- ⚡ Fun fact: I'm currently studying B. Tech Computer Science
+- ⚡ Fun Fact: I’m a B.Tech CSE student who solves puzzles like debugging code!
 
 <a href="https://www.github.com/kailash51" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kailash51?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
